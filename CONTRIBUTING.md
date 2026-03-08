@@ -122,4 +122,4 @@ Before submitting, verify:
 
 ## Questions
 
-Open a [GitHub Discussion](https://github.com/helpnest/helpnest-themes/discussions) if you have questions before submitting.
+Open a [GitHub Discussion](https://github.com/babble-open-source/helpnest-themes/discussions) if you have questions before submitting.

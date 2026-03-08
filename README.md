@@ -1,6 +1,6 @@
 # HelpNest Themes
 
-Community themes for [HelpNest](https://github.com/helpnest/helpnest) — the open-source help center.
+Community themes for [HelpNest](https://github.com/babble-open-source/helpnest) — the open-source help center.
 
 ## Available Themes
 

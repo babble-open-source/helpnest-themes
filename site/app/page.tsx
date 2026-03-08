@@ -20,7 +20,7 @@ export default function HomePage() {
               </p>
             </div>
             <a
-              href="https://github.com/helpnest/helpnest-themes"
+              href="https://github.com/babble-open-source/helpnest-themes"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-flex items-center gap-2 px-4 py-2 rounded-lg border border-gray-200 text-sm font-medium text-gray-700 bg-white hover:bg-gray-50 transition-colors"
@@ -73,7 +73,7 @@ export default function HomePage() {
           </p>
           <div className="flex items-center gap-6 text-sm text-gray-500">
             <a
-              href="https://github.com/helpnest/helpnest"
+              href="https://github.com/babble-open-source/helpnest"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-900 transition-colors"
@@ -81,7 +81,7 @@ export default function HomePage() {
               Main repo
             </a>
             <a
-              href="https://github.com/helpnest/helpnest-themes/blob/main/CONTRIBUTING.md"
+              href="https://github.com/babble-open-source/helpnest-themes/blob/main/CONTRIBUTING.md"
               target="_blank"
               rel="noopener noreferrer"
               className="hover:text-gray-900 transition-colors"
