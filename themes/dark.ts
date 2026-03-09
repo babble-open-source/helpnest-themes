@@ -19,7 +19,7 @@ const darkTheme: HelpNestTheme = {
     heading: "'Instrument Serif', Georgia, serif",
     body: "'DM Sans', system-ui, sans-serif",
     headingUrl:
-      'https://fonts.googleapis.com/css2?family=Instrument+Serif&display=swap',
+      'https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap',
     bodyUrl:
       'https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700&display=swap',
   },
