@@ -1,6 +1,6 @@
 {
   "name": "@helpnest/themes",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Community themes for HelpNest — the open-source help center",
   "type": "module",
   "main": "./dist/index.js",
@@ -12,13 +12,21 @@
       "types": "./dist/index.d.ts"
     }
   },
-  "files": ["dist", "themes"],
+  "files": [
+    "dist",
+    "themes"
+  ],
   "scripts": {
     "build": "tsup src/index.ts --format esm,cjs --dts --out-dir dist",
     "typecheck": "tsc --noEmit",
     "dev": "tsup src/index.ts --format esm,cjs --dts --out-dir dist --watch"
   },
-  "keywords": ["helpnest", "themes", "help-center", "tailwindcss"],
+  "keywords": [
+    "helpnest",
+    "themes",
+    "help-center",
+    "tailwindcss"
+  ],
   "license": "MIT",
   "devDependencies": {
     "tsup": "^8.0.0",
