@@ -1,6 +1,6 @@
 {
   "name": "@helpnest/themes",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "description": "Community themes for HelpNest — the open-source help center",
   "type": "module",
   "main": "./dist/index.js",
