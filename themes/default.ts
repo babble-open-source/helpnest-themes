@@ -17,11 +17,11 @@ const defaultTheme: HelpNestTheme = {
   },
   fonts: {
     heading: "'Lora', Georgia, serif",
-    body: "'DM Sans', system-ui, sans-serif",
+    body: "'Source Sans 3', system-ui, sans-serif",
     headingUrl:
       'https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&display=swap',
     bodyUrl:
-      'https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700&display=swap',
+      'https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500&display=swap',
   },
   radius: 'md',
   dark: false,
