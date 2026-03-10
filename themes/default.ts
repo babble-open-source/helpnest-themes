@@ -16,10 +16,10 @@ const defaultTheme: HelpNestTheme = {
     white: '#FFFFFF',
   },
   fonts: {
-    heading: "'Instrument Serif', Georgia, serif",
+    heading: "'Lora', Georgia, serif",
     body: "'DM Sans', system-ui, sans-serif",
     headingUrl:
-      'https://fonts.googleapis.com/css2?family=Instrument+Serif:ital@0;1&display=swap',
+      'https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&display=swap',
     bodyUrl:
       'https://fonts.googleapis.com/css2?family=DM+Sans:ital,opsz,wght@0,9..40,300..700&display=swap',
   },
