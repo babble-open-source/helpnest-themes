@@ -19,7 +19,7 @@ const forestTheme: HelpNestTheme = {
     heading: "'Lora', Georgia, serif",
     body: "'Source Sans 3', system-ui, sans-serif",
     headingUrl:
-      'https://fonts.googleapis.com/css2?family=Lora:wght@400;500&display=swap',
+      'https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400;0,500;1,400&display=swap',
     bodyUrl:
       'https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400;500&display=swap',
   },
